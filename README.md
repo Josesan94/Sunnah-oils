@@ -1,3 +1,3 @@
 # Sunnah-oils
 
-product store page for Sunnah oils commerce. only frontend made with reactjs and javascript
+Web de productos Sunnah oils. Hecho con javasript vanilla, jquery, html y css ( puro y bootstrap)
